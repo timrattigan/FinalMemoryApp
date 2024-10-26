@@ -59,3 +59,5 @@ struct LoginView_Previews: PreviewProvider {
 - **validateInput**: This function checks if the email or password is empty and whether the email contains an "@" symbol. If any of these conditions are true, the login button is disabled.
 
 You can customize the styling and functionality as needed for your specific application requirements.
+// Added a test comment
+
